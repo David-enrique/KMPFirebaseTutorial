@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62915711487",
+    "project_id": "kmpfirebasetutorial",
+    "storage_bucket": "kmpfirebasetutorial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62915711487:android:b321b03fdbc58f2d5f17ca",
+        "android_client_info": {
+          "package_name": "com.davidhl.kmpfirebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkKBzLoLFSsKL6S39ogZtxjFsSWo3Oko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
